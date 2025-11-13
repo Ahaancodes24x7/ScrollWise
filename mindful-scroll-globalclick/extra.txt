@@ -1,0 +1,26 @@
+<span class="title-icon">🌿</span>
+<p class="app-subtitle">AI-powered digital wellness companion</p>
+<span class="live-indicator">🔴 Live</span>
+<!-- Active Apps -->
+      <section class="apps-section">
+        <div class="section-header">
+          <h3 class="section-title">Active Monitoring</h3>
+          
+        </div>
+        <div id="appList" class="app-list modern"></div>
+      </section>
+
+<p class="tab-subtitle">Advanced machine learning for digital wellness</p>
+p class="card-description">Load pre-trained AI models</p>
+<p class="card-description">View model architecture & weights</p>
+<p class="card-description">Test AI performance & health</p>
+<p class="tab-subtitle">AI-powered focus enhancement tools</p>
+<span class="session-icon">🚀</span>
+<span class="site-icon">🌐</span>
+<p class="tab-subtitle">Customize your digital wellness experience</p>
+<footer class="app-footer">
+      <div class="footer-content">
+        <p class="footer-text">🧘 Stay mindful • Scroll consciously • AI-enhanced wellness</p>
+        <div class="footer-version">v2.1.0</div>
+      </div>
+    </footer>
